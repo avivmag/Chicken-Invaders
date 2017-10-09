@@ -12,7 +12,7 @@ Thus, the chicken is chosen to implement the visitor, while the shot will play t
 The meaning of such decision is that it will be much easier to add some new kind of chickens rather than new kind of shots.
 Be aware that a side from a correct way (object oriented) to implement such a game, we degraded some of the bugs from runtime exceptions level to compilation time errors. we done that by evading the use of the `instanceof` keyword, and instead being more definite about the dynamic types we use.
 
-This game has been done in pairs as part of an assignment in "Principles of Object Oriented Programming" course at Ben-Gurion University.
+This game has been done in pairs as part of an assignment in "Principles of Object Oriented Programming" course at Ben-Gurion University in 2015.
 
 ## Getting Started
 ### Prerequisites

@@ -10,9 +10,9 @@ In our case, the interaction is between the chickens and the shots in the game.
 In this assignment, we want to have a high diversity of chickens but only four types of shots.
 Thus, the chicken is chosen to implement the visitor role, while the shot will play the role of an element.
 The meaning of such decision is that it will be much easier to add new kinds of chickens rather than new kinds of shots.
-Be aware that aside from a correct way (object oriented) to implement such a game, we degraded some of the bugs from runtime exceptions level to compilation time errors. we've done that by evading the use of the `instanceof` keyword, and instead being more definite about the dynamic types we use.
+Be aware that aside from a correct way (object oriented) to implement such a game, we degraded some of the bugs from runtime exceptions level to compilation time errors. we've done that by evading the use of the `instanceof` keyword, and instead we've been more definite about the dynamic types we use.
 
-This game has been done in pairs as part of an assignment in "Principles of Object Oriented Programming" course at Ben-Gurion University in 2015.
+The development of this game was done in pairs as part of an assignment in "Principles of Object Oriented Programming" course at Ben-Gurion University in 2015.
 
 ## Getting Started
 ### Prerequisites

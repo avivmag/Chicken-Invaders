@@ -28,6 +28,6 @@ java -jar path_of_clone/bin/Chicken_invaders.jar
 
 ## Useful links
 
-* The actual assignment: https://www.cs.bgu.ac.il/~oosd152/wiki.files/Assignment4_oosd152_Update_01_06.pdf
+* The original source of the assignment: https://www.cs.bgu.ac.il/~oosd152/wiki.files/Assignment4_oosd152_Update_01_06.pdf
 * https://en.wikipedia.org/wiki/Double_dispatch
 * https://en.wikipedia.org/wiki/Visitor_pattern | https://sourcemaking.com/design_patterns/visitor

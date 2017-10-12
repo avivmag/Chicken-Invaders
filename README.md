@@ -1,8 +1,10 @@
 # Chicken-invaders
 
 A simple 'chicken invaders' based game built in java with swing graphic api. 
+
 The development of this game was done in pairs as part of an assignment in "Principles of Object Oriented Programming" course at Ben-Gurion University in 2015.
-A detailed description for how to play this game can be found in the desciption of the attached assignment.
+
+A detailed description for how to play this game can be found in the desciption of the attached assignment - section 2.
 
 ## Visitor pattern
 
